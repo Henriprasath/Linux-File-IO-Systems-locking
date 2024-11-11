@@ -1,5 +1,9 @@
-# Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
+## Linux-File-IO-Systems-locking
+## Ex07-Linux File-IO Systems-locking
+### Name: HENRIPRASATH S
+### Register No: 212223230077
+### Date:
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
