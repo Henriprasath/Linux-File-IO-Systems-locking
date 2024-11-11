@@ -1,4 +1,3 @@
-## Linux-File-IO-Systems-locking
 ## Ex07-Linux File-IO Systems-locking
 ### Name: HENRIPRASATH S
 ### Register No: 212223230077
